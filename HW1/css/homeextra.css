@@ -1,0 +1,15 @@
+.Aggiungi input[type=button]{
+	width: 150px;
+	height: 35px;
+	background: #FF0000;
+	border: 1px solid #fff;
+	cursor: pointer;
+	border-radius: 5px;
+	color: #FFFACD;
+	font-family: 'Exo', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 6px;
+	margin-top: 10px;
+	display:block;
+}
